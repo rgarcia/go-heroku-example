@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/kr/go-heroku-example/message"
+	"github.com/rgarcia/go-heroku-example/message"
 	"time"
 )
 

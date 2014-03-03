@@ -6,7 +6,7 @@ contains more than one package and more than one command.
 
 You can deploy it to heroku with the following commands:
 
-$ git clone https://github.com/kr/go-heroku-example.git
+$ git clone https://github.com/rgarcia/go-heroku-example.git
 $ cd go-heroku-example
 $ heroku create
 $ git push heroku master
