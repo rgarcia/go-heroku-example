@@ -3,6 +3,6 @@ You can deploy this to heroku with the following commands:
 $ git clone https://github.com/rgarcia/go-heroku-example.git
 $ cd go-heroku-example
 $ heroku create
-$ heroku config:add BUILDPACK_URL=https://github.com/kr/heroku-buildpack-go
+$ heroku config:add BUILDPACK_URL=https://github.com/rgarcia/heroku-buildpack-go
 $ git push heroku master
 $ heroku open
